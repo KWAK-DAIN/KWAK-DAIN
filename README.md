@@ -1,6 +1,6 @@
 ## Hi there 👋 
 KWAK-DAIN's profile
-I am beoreogi
+I am genius
 <!--
 **KWAK-DAIN/KWAK-DAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
